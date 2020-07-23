@@ -10,8 +10,8 @@
 <a href="https://leetcode.com/syntax_error/">
   <img align="left" alt="Rahul's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
-<br />
+<br/>
+<br/>
 
 - 🔭 I’m currently working with The Tor Project
 - 💬 Ask me about **Android, Java, Go**
